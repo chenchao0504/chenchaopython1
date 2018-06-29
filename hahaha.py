@@ -5,5 +5,5 @@
 #
 #
 
-
-print(" welcome to beijing ")
+if _name_ == '_main_':
+    pass
