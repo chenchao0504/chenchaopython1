@@ -7,5 +7,3 @@
 
 
 print(" welcome to beijing ")
-print(" welcome to beijing ")
-print(" welcome to beijing ")
